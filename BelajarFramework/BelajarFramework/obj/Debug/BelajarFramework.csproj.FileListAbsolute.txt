@@ -1,2 +1,0 @@
-C:\Users\reza.septiandra\Source\Repos\SML\BelajarFramework\BelajarFramework\bin\Debug\BelajarFramework.exe.config
-C:\Users\reza.septiandra\Source\Repos\Framework\BelajarFramework\BelajarFramework\bin\Debug\BelajarFramework.exe.config
